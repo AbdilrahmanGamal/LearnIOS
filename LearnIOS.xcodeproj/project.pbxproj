@@ -13,6 +13,7 @@
 		BA39C92624CF0B5100B5BDD9 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BA39C92424CF0B5100B5BDD9 /* Main.storyboard */; };
 		BA39C92824CF0B5400B5BDD9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BA39C92724CF0B5400B5BDD9 /* Assets.xcassets */; };
 		BA39C92B24CF0B5400B5BDD9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BA39C92924CF0B5400B5BDD9 /* LaunchScreen.storyboard */; };
+		BA84C43324F69DA300ADE5D8 /* StartApp.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BA84C43224F69DA300ADE5D8 /* StartApp.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		BA39C92724CF0B5400B5BDD9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		BA39C92A24CF0B5400B5BDD9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		BA39C92C24CF0B5400B5BDD9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		BA84C43224F69DA300ADE5D8 /* StartApp.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = StartApp.storyboard; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				BA39C92024CF0B5100B5BDD9 /* SceneDelegate.swift */,
 				BA39C92224CF0B5100B5BDD9 /* ViewController.swift */,
 				BA39C92424CF0B5100B5BDD9 /* Main.storyboard */,
+				BA84C43224F69DA300ADE5D8 /* StartApp.storyboard */,
 				BA39C92724CF0B5400B5BDD9 /* Assets.xcassets */,
 				BA39C92924CF0B5400B5BDD9 /* LaunchScreen.storyboard */,
 				BA39C92C24CF0B5400B5BDD9 /* Info.plist */,
@@ -126,6 +129,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				BA39C92B24CF0B5400B5BDD9 /* LaunchScreen.storyboard in Resources */,
+				BA84C43324F69DA300ADE5D8 /* StartApp.storyboard in Resources */,
 				BA39C92824CF0B5400B5BDD9 /* Assets.xcassets in Resources */,
 				BA39C92624CF0B5100B5BDD9 /* Main.storyboard in Resources */,
 			);
